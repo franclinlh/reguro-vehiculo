@@ -1,0 +1,38 @@
+//contenedor de la pagina responsive
+.container {
+  @include telefono {
+    width: 100%;
+    padding: 0 10px;
+  }
+  @include desktop{
+    width: 1200px;
+    margin: 0 auto;
+  }
+}
+//color del baner
+.whiteBg {
+  background:$navbar !important;
+  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
+  & a {
+    color: $black !important;
+  }
+}
+//banner
+.transparent {
+  background: transparent;
+
+  & a {
+    color:$blanco;
+  }
+}
+
+.pl-15 {
+  padding-left: 15px;
+}
+
+.mt-60 {
+  margin-top: 60px;
+}
+.rel {
+  position: relative;
+}

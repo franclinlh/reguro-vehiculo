@@ -1,0 +1,10 @@
+.footer{
+    width: 100%;
+    background: $negro;
+    height: 10rem;
+    &__p p{
+      color: $blanco;
+      text-align: left;
+      padding: 5rem 0 0 0;
+    }
+}

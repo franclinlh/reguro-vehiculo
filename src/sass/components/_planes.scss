@@ -1,0 +1,52 @@
+.precios {
+  width: 100%;
+  padding: 100px 0;
+  background: $crema;
+  &__tituloG{
+    margin-top: -5rem;
+    text-align: center;
+    @include responsive(768px){
+      text-align: left;
+      margin-top: 10px;
+    }
+  }
+  .precio {
+    background: $green;
+    padding: 25px;
+    border-radius: 8px;
+    margin: 35px 20px;
+    color: $negro;
+    text-align: center;
+
+    &__cabecera {
+      font-size: 24px;
+      font-weight: $regular;
+      margin-bottom: 15px;
+    }
+    &__rs {
+      font-size: 70px;
+      font-weight: $delgada;
+      margin-bottom: 15px;
+    }
+    &__rs span {
+      font-size: 25px;
+    }
+    & ul {
+      list-style-type: none;
+    }
+    & ul li {
+      margin: 25px 0;
+      border-bottom: 1px solid #80bbae;
+      font-size: 14px;
+      padding: 15px 0;
+    }
+    &__buton{
+        @include boton($rojo, inline-block);
+        margin: 0;
+    }
+    &__buton a{
+        text-decoration: none;
+        color: $blanco;
+    }
+  }
+}
