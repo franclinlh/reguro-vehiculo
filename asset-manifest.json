@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/reguro-vehiculo/static/css/main.aa2833b5.chunk.css",
-    "main.js": "/reguro-vehiculo/static/js/main.918cef6f.chunk.js",
-    "main.js.map": "/reguro-vehiculo/static/js/main.918cef6f.chunk.js.map",
-    "runtime-main.js": "/reguro-vehiculo/static/js/runtime-main.adc0757a.js",
-    "runtime-main.js.map": "/reguro-vehiculo/static/js/runtime-main.adc0757a.js.map",
-    "static/js/2.0bb783bc.chunk.js": "/reguro-vehiculo/static/js/2.0bb783bc.chunk.js",
-    "static/js/2.0bb783bc.chunk.js.map": "/reguro-vehiculo/static/js/2.0bb783bc.chunk.js.map",
-    "index.html": "/reguro-vehiculo/index.html",
-    "precache-manifest.94d8286cc81cdb33ca15a2a96cbd616f.js": "/reguro-vehiculo/precache-manifest.94d8286cc81cdb33ca15a2a96cbd616f.js",
-    "service-worker.js": "/reguro-vehiculo/service-worker.js",
-    "static/css/main.aa2833b5.chunk.css.map": "/reguro-vehiculo/static/css/main.aa2833b5.chunk.css.map",
-    "static/js/2.0bb783bc.chunk.js.LICENSE.txt": "/reguro-vehiculo/static/js/2.0bb783bc.chunk.js.LICENSE.txt"
+    "main.css": "/seguro-vehiculo/static/css/main.aa2833b5.chunk.css",
+    "main.js": "/seguro-vehiculo/static/js/main.918cef6f.chunk.js",
+    "main.js.map": "/seguro-vehiculo/static/js/main.918cef6f.chunk.js.map",
+    "runtime-main.js": "/seguro-vehiculo/static/js/runtime-main.43f2e6bb.js",
+    "runtime-main.js.map": "/seguro-vehiculo/static/js/runtime-main.43f2e6bb.js.map",
+    "static/js/2.6da04c57.chunk.js": "/seguro-vehiculo/static/js/2.6da04c57.chunk.js",
+    "static/js/2.6da04c57.chunk.js.map": "/seguro-vehiculo/static/js/2.6da04c57.chunk.js.map",
+    "index.html": "/seguro-vehiculo/index.html",
+    "precache-manifest.b8edf9a52c1dc97dad00db60352a7c52.js": "/seguro-vehiculo/precache-manifest.b8edf9a52c1dc97dad00db60352a7c52.js",
+    "service-worker.js": "/seguro-vehiculo/service-worker.js",
+    "static/css/main.aa2833b5.chunk.css.map": "/seguro-vehiculo/static/css/main.aa2833b5.chunk.css.map",
+    "static/js/2.6da04c57.chunk.js.LICENSE.txt": "/seguro-vehiculo/static/js/2.6da04c57.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.adc0757a.js",
-    "static/js/2.0bb783bc.chunk.js",
+    "static/js/runtime-main.43f2e6bb.js",
+    "static/js/2.6da04c57.chunk.js",
     "static/css/main.aa2833b5.chunk.css",
     "static/js/main.918cef6f.chunk.js"
   ]
